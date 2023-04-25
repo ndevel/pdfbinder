@@ -183,7 +183,6 @@ namespace PDFBinder
             this.MinimumSize = new System.Drawing.Size(437, 214);
             this.Name = "MainForm";
             this.Text = "PDF合并工具";
-            this.TopMost = true;
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
             this.ResumeLayout(false);
